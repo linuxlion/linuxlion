@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linuxlion
 - 👀 I’m interested in linux in general and home automation at present.
-- 🌱 I’m currently learning working with SBCs integrating Home Assistant.
+- 🌱 I’m currently learning to work with SBCs integrating Home Assistant.
 - 💞️ I’m looking to collaborate on the same.
 - 📫 How to reach me, it goes down in the dm.
 
